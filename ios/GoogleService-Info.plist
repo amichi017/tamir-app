@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463912944330-q0tu8u3496nufjci84eoaeb8uvm3dhb6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463912944330-q0tu8u3496nufjci84eoaeb8uvm3dhb6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463912944330-gghode112ilnbp2r91dfbt07udfp38lb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDh7dl3xp7tFEL4n90l7-SAhsibefQfTks</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463912944330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tamir.tamirapp</string>
+	<key>PROJECT_ID</key>
+	<string>tamir-db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tamir-db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463912944330:ios:64f18e29a7e438c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://tamir-db.firebaseio.com</string>
+</dict>
+</plist>

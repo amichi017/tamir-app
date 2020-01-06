@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "463912944330",
+    "firebase_url": "https://tamir-db.firebaseio.com",
+    "project_id": "tamir-db",
+    "storage_bucket": "tamir-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463912944330:android:64f18e29a7e438c2",
+        "android_client_info": {
+          "package_name": "com.tamir.tamirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463912944330-51iacmcsc05es7ep09olhmhtac13lprf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamir.tamirapp",
+            "certificate_hash": "059efd16494a8e081372f77bfcf68371ff9acc11"
+          }
+        },
+        {
+          "client_id": "463912944330-jdtli7thhq0fabmbdgttvqnvukmselam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamir.tamirapp",
+            "certificate_hash": "2585c032147bd0ee9ad668a56f1075b5ab1b710c"
+          }
+        },
+        {
+          "client_id": "463912944330-gghode112ilnbp2r91dfbt07udfp38lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamir.tamirapp",
+            "certificate_hash": "30b7bb4e9a94c3a5f5b8fd27c7fa1f6869e1d080"
+          }
+        },
+        {
+          "client_id": "463912944330-2ugqfr9197k91cnpccme888e05ctdmer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnchf2N5gv3ysE050JQYe8fLQy32OmBQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463912944330-2ugqfr9197k91cnpccme888e05ctdmer.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463912944330-q0tu8u3496nufjci84eoaeb8uvm3dhb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tamir.tamirapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
